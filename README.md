@@ -1,1 +1,1 @@
-# estudos_sql
+anotações de estudos sobre db sql
